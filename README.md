@@ -1,0 +1,2 @@
+# AutoMaticDiary
+Created with CodeSandbox
